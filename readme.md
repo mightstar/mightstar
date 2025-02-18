@@ -1,5 +1,5 @@
 <h1 align="center">
-  Welcome to Mightstar's profile!
+  Welcome to EthicalByte's profile!
 </h1>
 <img src="./star.gif" width="100%" style="border-radius: 8px"/>
 
