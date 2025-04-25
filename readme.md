@@ -1,7 +1,12 @@
 <h1 align="center">
   Welcome to EthicalByte's profile!
 </h1>
+
 <img src="./star.gif" width="100%" style="border-radius: 8px"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brightdev124&label=Profile%20views&color=0e75b6&style=flat" alt="brightdev124" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brightdev124" alt="brightdev124" /></a> </p>
 
 ### ⭐ About Me:
 A Passionate Senior Software Engineer dedicated to developing and optimizing interactive, user-friendly, and feature-rich websites.
@@ -26,3 +31,10 @@ to that in IT
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brightdev124&show_icons=true&locale=en&layout=compact" alt="mightstar" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mightstar/mightstar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mightstar/mightstar/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mightstar/mightstar/output/github-contribution-grid-snake.svg">
+</picture>
